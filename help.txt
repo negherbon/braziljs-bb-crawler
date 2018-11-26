@@ -1,0 +1,3 @@
+URL: https://aapj.bb.com.br/aapj/loginpfe.bb
+
+Captch endpoint: aapj.bb.com.br/aapj/imagemCaptcha.bb
